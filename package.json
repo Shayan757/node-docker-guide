@@ -1,0 +1,14 @@
+{
+  "name": "node-docker-guide",
+  "version": "1.0.0",
+  "description": "A simple Node.js app containerized with Docker and Docker Compose",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Shayan Ashraf",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
